@@ -18,3 +18,13 @@
 3. **Examina objetos**: Algunos objetos pueden tener un valor oculto, como las llaves que te permitirán acceder a nuevas habitaciones.
 4. **Usa tu inventario**: Tienes acceso a un inventario que almacena todos los objetos y llaves que vayas encontrando. Recuerda que algunos objetos pueden ser útiles en diferentes momentos.
 
+## Tecnologías Utilizadas
+
+Este proyecto utiliza varias tecnologías y bibliotecas para crear la experiencia del juego. Aquí te dejamos un resumen de las herramientas y tecnologías que se han utilizado:
+
+### Lenguaje de Programación
+- **Python**: El juego está programado en Python, un lenguaje de alto nivel que es fácil de aprender y poderoso para crear aplicaciones de consola interactivas como esta. Python se ha usado para manejar la lógica del juego, los flujos de decisiones y la interacción del usuario.
+
+### Funciones y Lógica
+- **Funciones de Python**: El juego hace uso extensivo de funciones para organizar la lógica del juego, como explorar habitaciones, examinar objetos, gestionar el inventario, y manejar las interacciones entre los objetos.
+- **Estructuras de Control**: Se usan estructuras como bucles `while`, `if` y `else` para gestionar las decisiones del jugador y permitirle tomar acción en el juego.
