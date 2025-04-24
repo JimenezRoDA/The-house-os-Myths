@@ -28,3 +28,9 @@ Este proyecto utiliza varias tecnologías y bibliotecas para crear la experienci
 ### Funciones y Lógica
 - **Funciones de Python**: El juego hace uso extensivo de funciones para organizar la lógica del juego, como explorar habitaciones, examinar objetos, gestionar el inventario, y manejar las interacciones entre los objetos.
 - **Estructuras de Control**: Se usan estructuras como bucles `while`, `if` y `else` para gestionar las decisiones del jugador y permitirle tomar acción en el juego.
+
+## 📽️ Presentación
+
+Puedes ver nuestra presentación del proyecto en el siguiente enlace:
+
+[🔗 Ver presentación en Prezi]()
