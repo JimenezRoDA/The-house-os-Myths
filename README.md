@@ -33,4 +33,4 @@ Este proyecto utiliza varias tecnologías y bibliotecas para crear la experienci
 
 Puedes ver nuestra presentación del proyecto en el siguiente enlace:
 
-[🔗 Ver presentación en Prezi](https://prezi.com/p/edit/randalz3r8om/)
+[🔗 Ver presentación en Prezi]([https://prezi.com/p/edit/randalz3r8om/](https://prezi.com/view/Oxy7rVlgPtPiMaJOovDM/))
