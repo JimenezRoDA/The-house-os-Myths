@@ -39,9 +39,12 @@ object_relations = {
     "bedroom 2": [dresser, double_bed, door_b],
     "living room": [dining_table, door_d, door_c],
     "outside": [door_d],
+    "couch": [radiation_gloves]
+    "dining table": [bread_and_wine]
+
 
     "piano": [key_a],
-    "queen bed": [key_b],
+    "queen bed": [key_b, royal_crown],
     "dresser": [key_d],
     "double bed": [key_c],
 
